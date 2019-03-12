@@ -56,12 +56,6 @@
             </span><span class="s2">"self"</span><span class="p">:</span><span class="w"> </span><span class="s2">"https://api.mwwondemand.com/api/orders/536862475937646298/relationships/shipping-address"</span><span class="p">,</span><span class="w">
             </span><span class="s2">"related"</span><span class="p">:</span><span class="w"> </span><span class="s2">"https://api.mwwondemand.com/api/orders/536862475937646298/shipping-address"</span><span class="w">
           </span><span class="p">}</span><span class="w">
-        </span><span class="p">},</span><span class="w">
-        </span><span class="s2">"return-address"</span><span class="p">:</span><span class="w"> </span><span class="p">{</span><span class="w">
-          </span><span class="s2">"links"</span><span class="p">:</span><span class="w"> </span><span class="p">{</span><span class="w">
-            </span><span class="s2">"self"</span><span class="p">:</span><span class="w"> </span><span class="s2">"https://api.mwwondemand.com/api/orders/536862475937646298/relationships/return-address"</span><span class="p">,</span><span class="w">
-            </span><span class="s2">"related"</span><span class="p">:</span><span class="w"> </span><span class="s2">"https://api.mwwondemand.com/api/orders/536862475937646298/return-address"</span><span class="w">
-          </span><span class="p">}</span><span class="w">
         </span><span class="p">}</span><span class="w">
       </span><span class="p">}</span><span class="w">
     </span><span class="p">}</span><span class="w">

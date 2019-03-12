@@ -72,20 +72,6 @@
               <span class="s">"}"</span> <span class="o">+</span>
             <span class="s">"},"</span> <span class="o">+</span>
             <span class="s">"{"</span> <span class="o">+</span>
-              <span class="s">"'type': 'return-address',"</span> <span class="o">+</span>
-              <span class="s">"'attributes': { "</span> <span class="o">+</span>
-                <span class="s">"'name': 'Bender B. Rodriguez',"</span> <span class="o">+</span>
-                <span class="s">"'address1: '123 Green St.',"</span> <span class="o">+</span>
-                <span class="s">"'address2: 'Suite 321',"</span> <span class="o">+</span>
-                <span class="s">"'city': 'New New York', "</span> <span class="o">+</span>
-                <span class="s">"'state': 'NY',"</span> <span class="o">+</span>
-                <span class="s">"'country': 'US',"</span> <span class="o">+</span>
-                <span class="s">"'postal-code': '10012',"</span> <span class="o">+</span>
-                <span class="s">"'email': 'bob@dobalina.net',"</span> <span class="o">+</span>
-                <span class="s">"'phone': '8288888888'"</span> <span class="o">+</span>
-              <span class="s">"}"</span> <span class="o">+</span>
-            <span class="s">"},"</span> <span class="o">+</span>
-            <span class="s">"{"</span> <span class="o">+</span>
               <span class="s">"'type': 'line-items', "</span> <span class="o">+</span>
               <span class="s">"'attributes': { "</span> <span class="o">+</span>
                 <span class="s">"'line-number': 1, "</span> <span class="o">+</span>
